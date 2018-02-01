@@ -1,6 +1,6 @@
 {
   "name": "libraryproject",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is a mini library that helps with the interaction of the divs in a webpage.",
   "main": "lib/main.js",
   "scripts": {
